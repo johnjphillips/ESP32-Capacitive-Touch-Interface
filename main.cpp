@@ -57,7 +57,7 @@ void loop() {
   }
 
 
-  // Output the reads to Serial so thew threshold values can be determined and set
+  // Output the reads to Serial so the threshold values can be determined and set
 
   //Serial.printf("| %d | %d | %d | %d | \n", btn1.update(), btn2.update(), btn3.update(), btn4.update());
   //delay(50);
